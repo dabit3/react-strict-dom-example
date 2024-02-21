@@ -1,6 +1,6 @@
 ## Example of React Strict Dom
 
-Build mobile apps with HTML
+Build native mobile apps with HTML via React Native
 
 Barebones example of how to integrate [React Strict Dom](https://github.com/facebook/react-strict-dom/tree/main)
 
