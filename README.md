@@ -6,7 +6,7 @@ Barebones example of how to integrate [React Strict Dom](https://github.com/face
 
 ### Prerequisites
 
-For compiling to a native binary, must have either Android Studio or xCode installed on your machine.
+For compiling to a native binary, must have either Android Studio or Xcode installed on your machine.
 
 For testing as is, you can use Expo Go without the need to set up any mobile development environments on your machine.
 
