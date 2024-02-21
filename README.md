@@ -10,8 +10,6 @@ For compiling to a native binary, must have either Android Studio or Xcode insta
 
 For testing as is, you can use Expo Go without the need to set up any mobile development environments on your machine.
 
-See `app.json` for library-specific configuration.
-
 ### Getting started
 
 1. Clone the repo

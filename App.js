@@ -21,6 +21,7 @@ const styles = css.create({
   },
   buttonText: { 
     color: 'white',
+    position: 'relative',
     fontWeight: 'bold'
   }
 });
